@@ -1,5 +1,5 @@
 # Project 101
-Tum haklari saklidir. Izinsiz kullanilamaz. Yasa da  10031. maddede yer alan
+Tum haklari saklidir. Izinsiz kullanilamaz. Yasada  10031. maddede yer alan
    kod ihlali kanunu sebebiyle gerekli goruldugunde dava yoluna basvurulabilir.
  Proje bir cesit tekstil firmasi icin hazirlanmis otomasyon sistemidir. Hala 
    gelistirilme asamasindadir.
@@ -8,7 +8,7 @@ Tum haklari saklidir. Izinsiz kullanilamaz. Yasa da  10031. maddede yer alan
 Proje de emegi gecenler ;
    
    # Semih Demir
-   # Serkancan Caglayan
+   # Serkan Can Caglayan
    # Egemen Yapucu
    # Alperen Inci
    # Hasan Fehmi Ozturk
